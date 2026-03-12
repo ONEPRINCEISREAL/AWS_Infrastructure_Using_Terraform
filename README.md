@@ -104,9 +104,13 @@ To prevent costs, destroy the resources and then **manually** delete the backend
 
 ---
 
-## Connect with Me
+##  Connect with Me
 
-**Prince Singh Chauhan** (https://www.google.com/search?q=https://princesinghchauhan.qzz.io) 
-**LinkedIn** (https://linkedin.com/in/your-profile) 
-**GitHub** (https://www.google.com/search?q=https://github.com/ONEPRINCEISREAL)
+**Prince Singh Chauhan**
+
+ **Portfolio:** https://princesinghchauhan.qzz.io
+ **LinkedIn:** https://linkedin.com/in/your-profile
+ **GitHub:** https://github.com/ONEPRINCEISREAL
+
+
 
