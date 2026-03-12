@@ -1,0 +1,84 @@
+# ===============================
+
+# Terraform Files
+
+# ===============================
+
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Ignore Terraform variable files (may contain secrets)
+
+*.tfvars
+*.tfvars.json
+
+# Terraform lock file (OPTIONAL — remove this line if you want to commit it)
+
+.terraform.lock.hcl
+
+# Override files
+
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# ===============================
+
+# Sensitive Files
+
+# ===============================
+
+*.pem
+*.key
+*.pub
+
+# Environment Variables
+
+.env
+.env.*
+
+# ===============================
+
+# Docker Files
+
+# ===============================
+
+docker-compose.override.yml
+
+# ===============================
+
+# OS / Editor Files
+
+# ===============================
+
+.DS_Store
+Thumbs.db
+
+# VS Code
+
+.vscode/
+
+# JetBrains IDEs
+
+.idea/
+
+# ===============================
+
+# Logs
+
+# ===============================
+
+*.log
+
+# ===============================
+
+# Misc
+
+# ===============================
+
+tmp/
+temp/
